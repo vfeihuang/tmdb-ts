@@ -1,5 +1,5 @@
 {
-  "name": "tmdb-ts",
+  "name": "tmdb-ts-feihuang",
   "version": "2.2.0",
   "description": "TMDB v3 library wrapper",
   "main": "dist/index.js",
